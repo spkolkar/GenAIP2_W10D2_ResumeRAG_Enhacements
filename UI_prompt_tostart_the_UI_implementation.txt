@@ -1,0 +1,9 @@
+I have completed the ingestion and retrieval pipeline already and documents stored already in the mongodb
+Implement the frontend implementation phase by phase .One phase at a time.
+Once one phase is completed ,proceed to next phase .
+
+ 
+[STRICT]DO NOT HALLUCINATE AND DO NOT GO BEYOND THE SCOPE
+[MANDATORY] DO NOT PROCEED TO NEXT PHASE UNTIL I APPROVE .
+ 
+Note :After each phase ,do the validation in UI and fix the errors if any
